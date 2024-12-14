@@ -31,3 +31,7 @@ button {
     border-color: #dc52ff;
     color: #dc52ff;
 }
+
+.open-source-info a{
+    color: blue;
+}
